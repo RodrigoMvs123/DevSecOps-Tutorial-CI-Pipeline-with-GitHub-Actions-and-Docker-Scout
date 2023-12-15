@@ -10,3 +10,14 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2 
+
+    - name: Set uo Python
+      uses: actions/setup-python@v2 
+      with:
+        python-version: 3.8 
+
+    - name: Install Bandit 
+      run: pip install bandit 
+
+    - name: Run Bandit Scan 
+      run: bandit -r .
