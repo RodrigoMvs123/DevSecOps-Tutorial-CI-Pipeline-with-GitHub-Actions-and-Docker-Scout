@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=gLJdrXPn0ns
 
 https://raw.githubusercontent.com/RodrigoMvs123/DevSecOps-Tutorial-CI-Pipeline-with-GitHub-Actions-and-Docker-Scout/main/README.md
 
+https://github.com/RodrigoMvs123/DevSecOps-Tutorial-CI-Pipeline-with-GitHub-Actions-and-Docker-Scout/blame/main/README.md
+
 What is DevSecOps ?
 Main DevSecOps Concepts ?
 DevSecOps Tools
